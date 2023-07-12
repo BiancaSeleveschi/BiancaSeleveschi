@@ -19,7 +19,7 @@ I am an UI/UX enthusiast with a great passion for technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bianca-seleveschi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bianca-seleveschi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bianca-seleveschi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bianca-seleveschi" height="30" width="40" /></a>
   <a href="mailto:bianca.seleveschi@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-gmail-social-media-justicon-flat-justicon.png" alt="bianca.seleveschi@gmail.com" height="30" width="40" /></a>
 </p>
 
