@@ -9,13 +9,13 @@ I am an UI/UX enthusiast with a great passion for technology.
 
 - 🤝 I’m looking for **new job opportunities**
 
-- 💬 Ask me about **vue, UI, books**
+- 💬 Ask me about **vue, UI, books, self-development**
 
 - 📫 How to reach me **bianca.seleveschi@gmail.com**
 
 - 💼 Find more about my and my work: **[Personal website](https://biancaseleveschi.github.io/)**
 
-- ❤️ I like reading psychology, history books
+- ❤️ I like reading psychology, self-development and history books
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
