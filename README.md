@@ -17,7 +17,7 @@ I am an UI/UX enthusiast with a great passion for technology.
 
 - ❤️ I like reading psychology, self-development and history books
 
--  💎 You can see all my projects **[here]([https://biancaseleveschi.github.io/](https://github.com/BiancaSeleveschi?tab=repositories))**
+-  💎 You can see all my projects **[here](https://github.com/BiancaSeleveschi?tab=repositories)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
